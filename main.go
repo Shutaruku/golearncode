@@ -13,6 +13,11 @@ func main() {
 	myInt = 8
 	fmt.Println(myInt)
 
+	var myFloat float64
+	fmt.Println(myFloat)
+	myFloat = 2.3
+	fmt.Println(myFloat)
+
 	var myBool bool
 	fmt.Println(myBool)
 	myBool = true
