@@ -22,4 +22,13 @@ func main() {
 	fmt.Println(myBool)
 	myBool = true
 	fmt.Println(myBool)
+
+	a := 12
+	b := 4
+	difference := a - bool
+	fmt.Println(difference)
+	product := a * b
+	fmt.Println(product)
+	remainder := a % b
+	fmt.Println(remainder)
 }
