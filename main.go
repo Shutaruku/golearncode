@@ -25,10 +25,14 @@ func main() {
 
 	a := 12
 	b := 4
-	difference := a - bool
+	difference := a - b
 	fmt.Println(difference)
 	product := a * b
 	fmt.Println(product)
 	remainder := a % b
 	fmt.Println(remainder)
+
+	fn := "first_name"
+	ln := "last_name"
+	fmt.Println(fn + ln)
 }
