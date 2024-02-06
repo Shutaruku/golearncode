@@ -12,4 +12,9 @@ func main() {
 	fmt.Println(myInt)
 	myInt = 8
 	fmt.Println(myInt)
+
+	var myBool bool
+	fmt.Println(myBool)
+	myBool = true
+	fmt.Println(myBool)
 }
